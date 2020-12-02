@@ -4,5 +4,5 @@ Using pandas dataframes, the data is analyzed to display the correlation between
 The script then applies 9 different machine learning algorithms to determine which is the best at predicting casualties.
 The file 'test.csv' is incommplete (no casualty information) as is completed by running one of the 9 algorithms (as of right now, Random Forest has the best performance)
 
-Submitting the challenge back to kaggle yielded an accuracy rating of 77%, which is pretty good given the limited size of the data set and prescence of outliers.
+Submitting the challenge back to kaggle yielded an accuracy rating of 77%, which is pretty good given the limited size of the data set and prescence of outliers (a computer making a logical prediction given relevant information can still be wrong).
 Data, and more information regarding this project can be found at https://www.kaggle.com/c/titanic/data
